@@ -2,14 +2,14 @@
 
 ### Milestones
 
-Data parsing
+1) Data parsing
 
-EM-shower recognition with known origin
+2) EM-shower recognition with known origin
 
-EM-shower recognition with unknown origin
+3) EM-shower recognition with unknown origin
 
-Several EM-showers recognition with unknown origin
+4) Several EM-showers recognition with unknown origin
 
-Multiply EM-showers recognition with unknown origin
+5) Multiply EM-showers recognition with unknown origin
 
 
